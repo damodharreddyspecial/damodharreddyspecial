@@ -1,6 +1,6 @@
 ### Hi, I'm Damodhar 👋
 
-I'm a Developer from SaudiArabia. I have experience building and scaling web applications in Angular and services SAG Webmethods. I am interested in AI and persuing masters from LJMU Liverpool
+I'm a Developer and Designer. I have experience in building and scaling web applications in Angular nextjs react and SAG Webmethods. I am interested in AI and building AI projects.
 
 
 
